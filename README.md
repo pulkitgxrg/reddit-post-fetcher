@@ -106,7 +106,7 @@ Feel free to fork the repository and submit pull requests to enhance the functio
     - Clone your forked repository to your local machine:
 
     ```bash
-    git clone https://github.com/pulkitgarg04/reddit-post-fetcher.git
+    git clone https://github.com/pulkitgxrg/reddit-post-fetcher.git
     cd reddit-post-fetcher
     ```
 
