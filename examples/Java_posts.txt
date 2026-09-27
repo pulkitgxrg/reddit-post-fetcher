@@ -1,4 +1,4 @@
-Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgarg04]): 
+Reddit Post Fetcher (Made by Pulkit Garg [https://www.github.com/pulkitgxrg]): 
 --------------------------------------
 Top 10 posts from /r/Java: 
 --------------------------------------
